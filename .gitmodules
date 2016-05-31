@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:jansuchomel/rp-client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:jansuchomel/rp-server.git
+[submodule "dist"]
+	path = dist
+	url = git@github.com:jansuchomel/rp-dist.git
